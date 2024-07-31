@@ -4,3 +4,9 @@ body {
     text-align: center;
     padding: 50px;
 }
+
+.e-404 {
+    font-size: 3rem;
+    color: red;
+    font-weight: bolder;
+}
