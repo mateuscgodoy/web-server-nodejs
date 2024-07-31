@@ -1,0 +1,30 @@
+{
+  "name": "web-server-nodejs",
+  "version": "1.0.0",
+  "description": "Implementing a simplified version of a web server using only native Node.js as practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuscgodoy/web-server-nodejs.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Web",
+    "Server"
+  ],
+  "author": "Mateus Colombo Godoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateuscgodoy/web-server-nodejs/issues"
+  },
+  "homepage": "https://github.com/mateuscgodoy/web-server-nodejs#readme",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
