@@ -10,3 +10,10 @@ body {
     color: red;
     font-weight: bolder;
 }
+
+.castle {
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
